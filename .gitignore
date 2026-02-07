@@ -4,3 +4,4 @@ dist
 .env
 .env.*
 !.env.example
+LOVING_ART_GLOBAL.md
